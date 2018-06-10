@@ -1,2 +1,3 @@
 # sleep-timer
-A simple sleep timer 😴
+A simple sleep timer for chrome on windows 😴
+It's just a batch file that kills all chrome windows after 3600 seconds...
